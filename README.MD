@@ -27,4 +27,4 @@ git remote add origin https://github.com/sanditor/crud_vue_php_msql_PDO.git
 
 Aquí está una imagen de ejemplo:
 
-![proyecto](img/capturaProyecto.png)
+![proyecto](img/capturaProyecto.jpg)
