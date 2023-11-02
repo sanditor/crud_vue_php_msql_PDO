@@ -1,5 +1,11 @@
 # Proyecto CRUD con Vue.js (CDN), PHP y MySQL (PDO)
 
+#Captura del proyecto
+
+Aquí está una imagen de ejemplo:
+
+![proyecto](img/capturaProyecto.jpg)
+
 Este proyecto es un ejemplo de una aplicación CRUD que utiliza Vue.js desde un CDN en el frontend, PHP en el backend y MySQL con PDO para administrar una base de datos.
 
 ## Requisitos
@@ -23,8 +29,3 @@ git remote add origin https://github.com/sanditor/crud_vue_php_msql_PDO.git
 
 3. Abre tu navegador y visita http://localhost:8080 (o la URL que hayas configurado en el backend). Deberías ver la aplicación CRUD en funcionamiento, donde puedes crear, leer, actualizar y eliminar registros en la base de datos.
 
-#Captura del proyecto
-
-Aquí está una imagen de ejemplo:
-
-![proyecto](img/capturaProyecto.jpg)
