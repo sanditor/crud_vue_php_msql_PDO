@@ -16,7 +16,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
 1. Clona el repositorio en tu servidor web:
 
-```bash
+
 git remote add origin https://github.com/sanditor/crud_vue_php_msql_PDO.git
 
 2. Corre la base de datos que está en la carpeta "ScriptBBDD" en tu gestor mysql de preferencia
